@@ -28,6 +28,10 @@ It works by leveraging the `<template>` html tag, and special `{{fields}}` in th
   </div>
 </div>
 </template>
+
+<div id="project-container">
+    <!-- Dynamically populated -->
+</div>
 ```
 
 ```html
