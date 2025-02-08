@@ -22,6 +22,7 @@ It works by leveraging the `<template>` html tag, and special `{{fields}}` in th
       <p class="card-text">{{description}}</p>
       <div class="d-flex justify-content-between align-items-center">
         <div id="urls" class="btn-group">
+          <!-- Dynamically populated -->
         </div>
       </div>
     </div>
